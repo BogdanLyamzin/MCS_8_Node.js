@@ -1,0 +1,1 @@
+postgresql://my_movies_database_d9nw_user:nGQSIY9qTiBYdRJqtX5YFrCG6WWzqvTW@dpg-d65muvtum26s73ee6jo0-a.frankfurt-postgres.render.com/my_movies_database_d9nw
